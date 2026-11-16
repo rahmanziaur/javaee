@@ -13,3 +13,6 @@ https://www.tutorialspoint.com/spring_boot/spring_boot_tutorial.pdf
 
 ### Modern API
 https://www.kufunda.net/publicdocs/Modern%20API%20Development%20with%20Spring%20and%20Spring%20Boot%20Design%20highly%20scalable%20and%20maintainable%20APIs%20with%20REST,%20gRPC,%20GraphQL,%20and...%20(Sourabh%20Sharma).pdf
+
+### Official Reference
+https://docs.spring.io/spring-boot/docs/1.1.0.M2/reference/pdf/spring-boot-reference.pdf
