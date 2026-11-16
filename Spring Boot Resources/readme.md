@@ -10,3 +10,6 @@ https://media.licdn.com/dms/document/media/v2/D4D1FAQFpePZzng79Xg/feedshare-docu
 ### Tutorials Point
 
 https://www.tutorialspoint.com/spring_boot/spring_boot_tutorial.pdf
+
+### Modern API
+https://www.kufunda.net/publicdocs/Modern%20API%20Development%20with%20Spring%20and%20Spring%20Boot%20Design%20highly%20scalable%20and%20maintainable%20APIs%20with%20REST,%20gRPC,%20GraphQL,%20and...%20(Sourabh%20Sharma).pdf
